@@ -12,4 +12,4 @@ THÔNG TIN ĐỒ ÁN
 - Giảng viên hướng dẫn: Nguyễn Khắc Quốc
 - Email của giảng viên: 
 - Công nghệ sử dung: HTML, CSS, JavaScript
-- Thời gian thực hiện: Từ 17/11/2025 đến05/01/
+- Thời gian thực hiện: Từ 17/11/2025 đến05/01/2025
